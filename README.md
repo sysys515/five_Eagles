@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <img width="363" alt="구조" src="https://github.com/sysys515/five_Eagles/files/구조.jpg">
+  <img width="363" alt="구조" src="https://github.com/sysys515/five_Eagles/files/structure.jpg">
 </div>
 
 
