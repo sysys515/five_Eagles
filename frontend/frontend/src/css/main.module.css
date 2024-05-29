@@ -1,0 +1,58 @@
+.filter {
+  display: flex;
+  width: 85%;
+  margin: 150px auto -50px;
+  justify-content: flex-end;
+}
+
+.filter > p:not(:last-child)::after {
+  content: "|";
+  padding: 10px;
+}
+
+.filter p {
+  cursor: pointer;
+}
+
+.flex_wrap {
+  max-width: 1440px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  place-items: center;
+  gap: 70px 0px;
+  margin: 0 auto;
+  margin-top: 35px; 
+}
+
+@media (max-width: 1440px) {
+  .flex_wrap {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .flex_wrap {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 360px) {
+  .filter p {
+    font-size: 12px;
+  }
+}
+
+.footer {
+  text-align: center;
+  padding: 50px;
+  bottom: 1000;
+  width: 100%;
+  color: gray; /* Set font color to gray */
+}
+
+.footer p::before {
+  content: '☺'; /* Replace with your desired emoticon character */
+  display: inline-block;
+  font-size: 20px;
+  margin-right: 8p;
+}

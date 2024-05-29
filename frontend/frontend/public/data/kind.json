@@ -1,0 +1,26 @@
+{
+  "kind": [
+    {
+      "id": 1,
+      "name" :  "소개",
+      "image": "/images/DOG.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "사용방법",
+      "image": "/images/cat.jpg"
+    },
+    {
+      "id": 3,
+      "name": "주의사항",
+      "image": "/images/lizard.jpg"
+    },
+    {
+      "id": 4,
+      "name": "문의사항",
+      "image": "/images/turtle.jpg"
+    }
+    
+  ]
+}

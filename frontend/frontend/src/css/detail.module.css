@@ -1,0 +1,76 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.sectionTitle {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.imageContainer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.textCenter {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.box {
+  border: 2px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.formContainer {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #0056b3;
+}
+/*.abc {*/
+/*  overflow: auto; !* Clear the float *!*/
+/*}*/
+
+/*.abc p {*/
+/*  float: center;*/
+/*  width: 48%; !* Adjust the width as needed *!*/
+/*  margin-right: 2%; !* Adjust the margin as needed *!*/
+/*  margin-bottom: 80px; */
+/*}*/

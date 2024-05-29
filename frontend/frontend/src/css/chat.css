@@ -1,0 +1,79 @@
+/* 채팅 메시지 스타일 */
+.message-row {
+    margin-bottom: 10px;
+}
+
+.message-bubble {
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 20px;
+    padding: 10px 20px;
+    max-width: fit-content;
+    display: inline-block;
+}
+
+.own-message {
+    text-align: right;
+}
+
+.other-message {
+    text-align: left;
+}
+
+.own-message .message-bubble {
+    background-color: #007bff;
+    color: white;
+}
+
+/* 채팅방 스타일 */
+.chat-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chat-body {
+    max-height: 600px;
+    overflow-y: auto; /* 세로 스크롤이 필요한 경우만 표시 */
+    overflow-x: hidden; /* 가로 스크롤 제거 */
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.message-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+.send-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.send-button:hover {
+    background-color: #0056b3;
+}
+
+.chat-message {
+    width: fit-content;
+    border-radius: 10px;
+    padding: 5px;
+    background: #ccc;
+}
+
+.sender {
+    float: right;
+    background: skyblue;
+}
