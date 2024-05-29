@@ -40,9 +40,8 @@
 **사용 기술** : `react` `spring data JPA` `spring security`
 
 
-<div align="center">
-  <img width="363" alt="구조" src="https://github.com/sysys515/five_Eagles/files/structure.jpg">
-</div>
+![structure](https://github.com/sysys515/five_Eagles/assets/63178550/07c0760a-409f-4bd0-8b7c-ec27ccb7b468)
+
 
 
 ## 💡 기대 효과
