@@ -40,7 +40,7 @@
 **사용 기술** : `react` `spring data JPA` `spring security`
 
 
-![structure](https://github.com/sysys515/five_Eagles/assets/63178550/07c0760a-409f-4bd0-8b7c-ec27ccb7b468)
+![structure](https://github.com/sysys515/five_Eagles/assets/63178550/165e33d5-0356-4a16-8e7d-e08431a72233)
 
 
 
