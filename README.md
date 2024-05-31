@@ -44,6 +44,10 @@
 채팅방
 ![채팅방](https://github.com/sysys515/five_Eagles/assets/63178550/ab1f7c3e-62aa-488a-adca-b7b90a744674)
 
+**시연 영상**
+
+https://www.youtube.com/watch?v=lN1jn_FSxxw&ab_channel=2023%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%8F%85%EC%88%98%EB%A6%AC%EC%98%A4%ED%98%95%EC%A0%9C
+
 
 ## 🔎 기술 및 구조
 
