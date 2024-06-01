@@ -44,7 +44,9 @@ function DetailUserInfo() {
 
     return (
         <div>
-            <div className="profile-header mb-3">
+            <div
+                className="profile-header mb-3"
+            align={"center"}>
                 {userInfo.profileImage && (
                     <img src={userInfo.profileImage} alt="프로필 이미지" className="profile-image" style={{width: "720px"}} />
                 )}
