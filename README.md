@@ -42,12 +42,18 @@ https://www.youtube.com/watch?v=lN1jn_FSxxw&ab_channel=%EB%8F%85%EC%88%98%EB%A6%
 
 게시판
 ![게시판](https://github.com/sysys515/five_Eagles/assets/63178550/1777e424-0b8c-4bb4-96e1-b4fbcce95366)
+![자랑게시판](https://github.com/sysys515/five_Eagles/assets/63178550/a103d00b-a433-4ba5-8c08-02b72f4ae9f6)
 
 매칭
 ![매칭](https://github.com/sysys515/five_Eagles/assets/63178550/33f05225-a44d-4671-9f09-23feca9281b2)
+![매칭 사용자소개](https://github.com/sysys515/five_Eagles/assets/63178550/27904866-ccbb-4eda-8aeb-7265f2b7a1db)
 
 채팅방
-![채팅방](https://github.com/sysys515/five_Eagles/assets/63178550/ab1f7c3e-62aa-488a-adca-b7b90a744674)
+![채팅방](https://github.com/sysys515/five_Eagles/assets/63178550/121b2cf4-3f56-4cf1-b7bc-4b4527ec1380)
+![채팅화면](https://github.com/sysys515/five_Eagles/assets/63178550/7deb157a-93a6-4674-80ca-154a06dca95b)
+
+마이페이지
+![마이페이지](https://github.com/sysys515/five_Eagles/assets/63178550/1881ead0-2729-4711-94ae-455d394ade22)
 
 
 ## 🔎 기술 및 구조
